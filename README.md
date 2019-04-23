@@ -13,5 +13,13 @@ The first version of the proposed method is implemented by Matlab and the second
 - epfl_car : experiment on the epfl car dataset
 
 # Reference
-if you use 
-please cite this paper: https://ieeexplore.ieee.org/abstract/document/8664135
+If you found these codes useful for your research, please consider citing - https://ieeexplore.ieee.org/abstract/document/8664135
+```
+@article{liu2019self,
+  title={Self-supervised learning for specified latent representation},
+  author={Liu, ChiCheng and Song, Libin and Zhang, Jiwen and Chen, Ken and Xu, Jing},
+  journal={IEEE Transactions on Fuzzy Systems},
+  year={2019},
+  publisher={IEEE}
+}
+```
