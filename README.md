@@ -11,3 +11,7 @@ The first version of the proposed method is implemented by Matlab and the second
 - ss_net.m : a example to use the proposed method
 - coaxial error detection : a application example
 - epfl_car : experiment on the epfl car dataset
+
+# Reference
+if you use 
+please cite this paper: https://ieeexplore.ieee.org/abstract/document/8664135
